@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Heidi Mueller
 
-You can use the [editor on GitHub](https://github.com/catawbaheidi/catawbaheidi.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This is my Github page that I'm creating for class. I'm a sophomore studying business at Catawba College.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I have a puppy named Salem who is 10 months old.
 
 ### Markdown
 
