@@ -4,9 +4,9 @@ This is my Github page that I'm creating for class. I'm a sophomore studying bus
 
 I have a puppy named Salem who is 10 months old.
 
-### Markdown
+### Salem
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Salem is a black labrador puppy. She has more energy than she knows what to do with and she loves to chase sticks and scrap pieces of wood.
 
 ```markdown
 Syntax highlighted code block
