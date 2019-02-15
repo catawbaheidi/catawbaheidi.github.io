@@ -8,6 +8,8 @@ I have a puppy named Salem who is 10 months old.
 
 Salem is a black labrador puppy. She has more energy than she knows what to do with and she loves to chase sticks and scrap pieces of wood.
 
+![Image](IMG_5350.JPG)
+
 ```markdown
 Syntax highlighted code block
 
