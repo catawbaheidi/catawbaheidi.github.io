@@ -1,6 +1,6 @@
 ## Heidi Mueller
 
-This is my Github page that I'm creating for class. I'm a sophomore studying business at Catawba College [link](https://catawba.edu).
+This is my Github page that I'm creating for class. I'm a sophomore studying business at [Catawba College](https://catawba.edu).
 
 I have a puppy named Salem who is 10 months old.
 
